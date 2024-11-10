@@ -31,14 +31,14 @@ You can try out the application at: [https://videocall-nine-orpin.vercel.app/](h
 ### Starting a Meeting
 Once logged in, you can start or join meetings easily:
 
-![Dashboard](./somephotos/img1.jpg)
+![Dashboard](./somephotos/img1.png)
 *Dashboard view showing meeting controls and options*
 
-![Meeting Start Screen](./somephotos/img2.jpg)
+![Meeting Start Screen](./somephotos/img2.png)
 *Click the button*
 
 
-![Active Call](./somephotos/img3.jpg)
+![Active Call](./somephotos/img3.png)
 *Active video call interface with participants*
 
 ## Getting Started
